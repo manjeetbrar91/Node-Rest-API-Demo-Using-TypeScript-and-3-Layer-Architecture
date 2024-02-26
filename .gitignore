@@ -1,0 +1,6 @@
+deploy
+node_modules
+dist
+package-lock.json
+apiCalls.log
+debugLogs.log
